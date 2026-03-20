@@ -1,4 +1,4 @@
-# Webghost
+# Web ghost
 Webghost is a web fingerprinting tool that pulls web technologies, CMS, WAF, and SSL certificates. 
 
 ## Usage
@@ -7,13 +7,13 @@ python3 webghost.py -S <target>
 ```
 
 ## Features
-- Server detection
-- Software detection
-- CMS detection
-- Security headers analysis
-- WAF detection 
-- robots.txt reader
-- SSL certificate info
+- 🖥️ Server detection
+- 🐘 Software detection
+- 📦 CMS detection
+- 🛡️ Security headers analysis
+- 🔥 WAF detection 
+- 🤖 robots.txt reader
+- 🔒 SSL certificate info
 
 ## Requirements
 ```bash
