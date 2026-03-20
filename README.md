@@ -27,3 +27,5 @@ cd Webghost
 pip install requests
 python3 webghost.py -S 
 ```
+## 📄 License
+MIT License - see [LICENSE](LICENSE) for details.
