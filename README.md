@@ -27,5 +27,9 @@ cd Webghost
 pip install requests
 python3 webghost.py -S 
 ```
+## 🤝 Contributing
+Feel free to open issues or pull requests if you want to improve Webghost.
+Any contributions are welcome!
+
 ## 📄 License
 MIT License - see [LICENSE](LICENSE) for details.
